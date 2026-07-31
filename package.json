@@ -1,0 +1,19 @@
+{
+  "name": "rijalnihbos",
+  "version": "5.0.0",
+  "description": "WhatsApp Game Bot - Rijal Multi Device",
+  "main": "rijalnihbos.js",
+  "scripts": {
+    "start": "node rijalnihbos.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "axios": "^1.7.7",
+    "figlet": "^1.7.0",
+    "node-webpmux": "^3.1.7",
+    "pino": "^9.4.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
